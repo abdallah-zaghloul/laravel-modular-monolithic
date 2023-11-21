@@ -17,3 +17,10 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/Modules
+composer.json
+composer.lock
+modules_statuses.json
+package.json
+vite.config.js
+/public/build-*
